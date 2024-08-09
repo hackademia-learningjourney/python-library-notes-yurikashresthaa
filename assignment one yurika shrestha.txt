@@ -1,0 +1,27 @@
+1.Numpy
+
+    It is a fundammental library designed for numerical computing which provides support for large and multidimensional matrices with
+    a collection of mathematical functions to operate on arrays (collection of numbers)
+
+2.Pandas
+
+   Pandas is a open source library for data manipulation and analysis in python.It is a tool in python which help us to wor with data 
+   in a table like format.It helps to organize data in rows and columns and analyze and manipulate the organized data quickly and efficiently
+
+3.Tensorflow
+
+   Tensorflow is a framework developed by google that helps us to build and train machine learning models. It is a tool for making and training
+   models that can analyze and predict from data and making predictions.
+
+4.Keras
+
+   Keras is a tool in python that helps you build and train models to make predictions.It is like a helpful assistant which makes it easier to 
+   create powerful machine learning models. 
+
+5.Scikit-learn   
+   Scikit-learn (sklearn) is a powerful, open-source Python library used for machine learning. It provides simple and efficient tools for 
+   data analysis, including algorithms for classification, regression, clustering, and dimensionality reduction.
+
+6.Pytorch    
+   PyTorch is a open-source deep learning library that makes it easy to create and train neural networks. It was developed by Facebook 
+   which allows you to work with tensors (like multi-dimensional arrays) and provides automatic differentiation.
