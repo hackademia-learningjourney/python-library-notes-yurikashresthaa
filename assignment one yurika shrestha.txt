@@ -19,9 +19,11 @@
    create powerful machine learning models. 
 
 5.Scikit-learn   
+
    Scikit-learn (sklearn) is a powerful, open-source Python library used for machine learning. It provides simple and efficient tools for 
    data analysis, including algorithms for classification, regression, clustering, and dimensionality reduction.
 
 6.Pytorch    
+
    PyTorch is a open-source deep learning library that makes it easy to create and train neural networks. It was developed by Facebook 
    which allows you to work with tensors (like multi-dimensional arrays) and provides automatic differentiation.
